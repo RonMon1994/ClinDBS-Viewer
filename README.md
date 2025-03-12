@@ -14,7 +14,7 @@ It enables efficient preprocessing of EEG and DBS signals, making it easier to e
 
 ### 1️⃣ Load EEG File  
 Load EEG recordings into the application for interactive analysis. This feature allows users to import EEG signals from standard formats and visualize them in real-time.  
-![Loading EEG File](ClinDBS-Viewer/assets/Loading_an_EEG_file.gif)
+![Loading EEG File](assets/Loading_an_EEG_file.gif)
 
 ### 2️⃣ Load DBS File  
 Load DBS (Deep Brain Stimulation) recordings alongside EEG signals. This allows synchronized analysis of brain activity and stimulation responses.  
