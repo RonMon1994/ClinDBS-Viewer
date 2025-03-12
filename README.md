@@ -58,13 +58,12 @@ Reload previously saved event annotations into the application. This allows user
    cd ClinDBS-Viewer
 
 2. Install dependencies:
+   ```bash
+   pip install numpy matplotlib scipy mne pyqt5
 
-   
 3. Run the application:
    ```bash
    python main.py
-
-
 
 
 ## Contributing
