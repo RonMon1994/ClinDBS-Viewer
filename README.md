@@ -10,6 +10,43 @@ It enables efficient preprocessing of EEG and DBS signals, making it easier to e
 
 
 
+## Features  
+
+### 1️⃣ Load EEG File  
+Load EEG recordings into the application for interactive analysis. This feature allows users to import EEG signals from standard formats and visualize them in real-time.  
+![Loading EEG File](assets/Loading_an_EEG_file.gif)
+
+### 2️⃣ Load DBS File  
+Load DBS (Deep Brain Stimulation) recordings alongside EEG signals. This allows synchronized analysis of brain activity and stimulation responses.  
+![Loading DBS File](assets/Loading_a_DBS_file.gif)
+
+### 3️⃣ Montage Selection  
+Adjust the way EEG and DBS signals are displayed by selecting different montage configurations. This helps in better visualization of specific signal relationships.  
+![Montage Selection](assets/Montage_selection.gif)
+
+### 4️⃣ Synchronization Cutting  
+This feature aligns the EEG and DBS signals based on values computed by a **Transformer model**. The model determines the optimal alignment parameters to ensure the signals are synchronized correctly before further processing.  
+![Synchronization Cutting](assets/Synchronization_cutting.gif)
+
+### 5️⃣ Signal Filtering  
+Apply real-time filters to EEG and DBS signals to remove noise and enhance signal clarity. Users can adjust filter parameters to optimize their analysis.  
+![Signal Filter](assets/Signal_filter.gif)
+
+### 6️⃣ Pan & Zoom  
+Navigate through the signals efficiently using interactive zoom and panning controls. This allows users to focus on specific segments of the signal for detailed inspection.  
+![Pan & Zoom](assets/Axis_Pan_Zoom.gif)
+
+### 7️⃣ Marking & Erasing Events  
+Manually mark neurological events of interest and remove unwanted annotations. This feature is crucial for segmenting and analyzing relevant portions of the signals.  
+![Marking and Erasing](assets/Marking_and_erasing.gif)
+
+### 8️⃣ Save Events  
+Save the marked events for later analysis. This ensures that all annotations and observations are stored persistently for future research.  
+![Saving Events](assets/Saving_events.gif)
+
+### 9️⃣ Load Saved Events  
+Reload previously saved event annotations into the application. This allows users to continue their analysis without needing to re-mark events manually.  
+![Loading Events](assets/Loading_events.gif)
 
 
 
