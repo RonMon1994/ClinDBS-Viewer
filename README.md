@@ -51,8 +51,18 @@ Reload previously saved event annotations into the application. This allows user
 
 
 
+## Installation
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/RonMon1994/ClinDBS-Viewer.git
+   cd ClinDBS-Viewer
 
+2. Install dependencies:
 
+   
+3. Run the application:
+   ```bash
+   python main.py
 
 
 
