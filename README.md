@@ -1,4 +1,4 @@
-# ClinDBS-Viewer
+# ClinDBS-Viewer - Interactive EEG & DBS Signal Processing Tool
 
 
 ## Overview  
@@ -7,3 +7,15 @@ Designed for researchers and engineers working on neurological data, this applic
 
 This project integrates **signal processing techniques**, **machine learning workflows**, and **interactive GUI elements** to assist in understanding neurological patterns.  
 It enables efficient preprocessing of EEG and DBS signals, making it easier to extract meaningful insights and develop **data-driven models**.
+
+
+
+
+
+
+
+
+
+
+
+
