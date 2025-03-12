@@ -34,11 +34,11 @@ Apply real-time filters to EEG and DBS signals to remove noise and enhance signa
 
 ### 6️⃣ Pan & Zoom  
 Navigate through the signals efficiently using interactive zoom and panning controls. This allows users to focus on specific segments of the signal for detailed inspection.  
-![Pan & Zoom](assets/Axis & Pan & Zoom.gif)
+![Pan & Zoom](assets/Axis_Pan_Zoom.gif)
 
 ### 7️⃣ Marking & Erasing Events  
 Manually mark neurological events of interest and remove unwanted annotations. This feature is crucial for segmenting and analyzing relevant portions of the signals.  
-![Marking and Erasing](assets/Marking_and_erasing.gif)
+![Marking and Erasing](assets/Marking_erasing.gif)
 
 ### 8️⃣ Save Events  
 Save the marked events for later analysis. This ensures that all annotations and observations are stored persistently for future research.  
