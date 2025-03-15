@@ -66,6 +66,11 @@ Reload previously saved event annotations into the application. This allows user
    python main.py
 
 
+## 🔒 Code Availability
+Due to an upcoming research publication, the source code is currently private. If you are interested in the project, feel free to reach out for further details.
+
+
+
 ## Contributing
 
 We welcome contributions! To contribute:
